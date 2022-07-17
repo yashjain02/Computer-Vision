@@ -1,5 +1,8 @@
 import cv2
 
+# Team members : Yash Kumar Jain, Nataly Michail, Thi Truc linh le, Mohamad Serhan
+
+
 #Face detection using image
 # Load the cascade
 face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
